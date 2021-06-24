@@ -1,7 +1,7 @@
 package turn
 
 import (
-	"github.com/pixelbender/go-stun/stun"
+	"go-stun/stun"
 	"net"
 	"time"
 )

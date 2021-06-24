@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	addr, err := stun.Lookup("stun:stun.l.google.com:19302", "username", "password")
+	addr, err := stun.Lookup("stun:stun.l.google.com:19302", "username2", "password2")
 	if err != nil {
 		fmt.Println(err)
 	} else {
