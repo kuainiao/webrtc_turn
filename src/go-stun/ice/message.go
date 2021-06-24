@@ -1,6 +1,6 @@
 package ice
 
-import "github.com/pixelbender/go-stun/stun"
+import "go-stun/stun"
 
 // STUN attributes introduced by the RFC 5245 Section 19.1
 const (

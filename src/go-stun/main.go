@@ -3,8 +3,9 @@ package main
 
 import (
 	"fmt"
+	"time"
 
-	"./stun"
+	"go-stun/stun"
 )
 
 func main() {
@@ -14,4 +15,5 @@ func main() {
 	} else {
 		fmt.Println(addr)
 	}
+	time.Sleep(time.Second * 3000)
 }

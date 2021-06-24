@@ -3,7 +3,7 @@ package turn
 import (
 	"crypto/tls"
 	"errors"
-	"github.com/pixelbender/go-stun/stun"
+	"go-stun/stun"
 	"net"
 	"net/url"
 	"strings"

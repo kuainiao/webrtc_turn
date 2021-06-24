@@ -1,0 +1,7 @@
+language: go
+sudo: false
+go:
+  - tip
+script:
+  - go test -v ./...
+  - go test -bench=. ./...

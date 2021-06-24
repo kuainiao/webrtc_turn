@@ -1,0 +1,84 @@
+# Gstreamer stuff
+aclocal.m4
+autom4te.cache
+config.h
+config.h.in
+config.log
+config.status
+config.guess
+config.sub
+config.rpath
+configure
+gstreamer-libs-uninstalled*.pc
+gstreamer-libs*.pc
+gstreamer-play-uninstalled*.pc
+gstreamer-play*.pc
+libtool
+stamp-h
+stamp-h.in
+stamp-h1
+gst-element-check-*.m4
+ltmain.sh
+missing
+mkinstalldirs
+compile
+install-sh
+depcomp
+autoregen.sh
+ABOUT-NLS
+/INSTALL
+.deps
+.libs
+*.lo
+*.la
+*~
+/m4
+Makefile.in
+Makefile
+*.gir
+*.typelib
+*.gc??
+# VS stuff
+.vs/
+*.log
+*.tlog
+*.lastbuildstate
+*.iobj
+*.pdb
+*.ipdb
+*.ilk
+*.exp
+
+Session.vim
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
